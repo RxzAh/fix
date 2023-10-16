@@ -7,7 +7,7 @@
 html {
     margin: 0;
     padding: 0;
-    background-color: #fff;
+    background-color: #4e4e4e;
     scroll-behavior: smooth;
 }
 
@@ -377,7 +377,7 @@ footer .layar-dalam .copyright {
     nav .menu ul li {
         width: 100%;
         border-bottom: 1px solid #181818;
-        background-color: #0e0e0e ;
+        background-color: #fff ;
         line-height: 40px;
     }
     nav .menu ul li a {
