@@ -180,10 +180,11 @@ section h3::after {
 section p.ringkasan {
     font-style: italic;
     font-size: 18px;
-    color:#fff;
+    color:#ababab;
 }
-section .konten-isi p {
+section .konten-ini p {
     font-style: normal;
+    background-color:#fff
 }
 nav.putih {
     background-color: #2e2e2e;
